@@ -1,0 +1,2 @@
+D:\TDM2E2\desarrollo>sass sass\main.scss css\estilo.css
+D:\TDM2E2\desarrollo>sass --watch sass\main.scss:css\estilo.css
